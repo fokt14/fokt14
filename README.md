@@ -37,12 +37,12 @@ I’m deeply focused on **architecture, performance, clean code, and business-dr
 
 ---
 
-## 📊 GitHub Stats
-
+<!-- ## 📊 GitHub Stats -->
+<!-- 
 <p align="left">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=fokt14&show_icons=true&theme=tokyonight&count_private=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fokt14&layout=compact&theme=tokyonight" />
-</p>
+</p> -->
 
 ---
 
