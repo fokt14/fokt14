@@ -1,6 +1,7 @@
 # Hi 👋, I'm Bernardo Lourenço
 
-🚀 **Currently doing the bachelor in Computer Engineering**  
+🚀 **Currently doing an Internship at Häme University of Applied Sciences (HAMK) Research **  
+💻 Software Engineer 
 🇵🇹 Portugal
 
 I’m deeply focused on **architecture, performance, clean code, and business-driven solutions**.
