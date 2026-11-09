@@ -29,9 +29,9 @@ Currently doing an Internship at Häme University of Applied Sciences (HAMK) Res
   <img src="https://skillicons.dev/icons?i=ubuntu,windows" alt="OS Skills" />
 </p>
 
-## 🚀 Philosophy
+---
 
-> _"Write clean code if you want a clean life brev"_
+> _"Code, coffe and music"_
 
 ---
 
