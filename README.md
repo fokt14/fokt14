@@ -31,7 +31,7 @@ Currently doing an Internship at Häme University of Applied Sciences (HAMK) Res
 
 ---
 
-> _"Code, coffe and music"_
+> _"Code, coffee and music"_
 
 ---
 
